@@ -1,1 +1,2 @@
-# stat-538
+# STAT538: Generalized Linear Models 
+
