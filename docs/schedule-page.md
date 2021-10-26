@@ -148,8 +148,8 @@
 
 
 #### Assignment Dates
-- Assignment 1: TBD
-- Assignment 2: TBD
+- Homework 1: TBD
+- Homework 2: TBD
 - Project Final Submission: TBD.
   
 

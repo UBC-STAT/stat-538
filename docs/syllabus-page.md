@@ -1,9 +1,6 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-# STAT538: Generalized Linear Models
+## Syllabus
+
+### STAT538: Generalized Linear Models
 
 **Purpose:** 
 
