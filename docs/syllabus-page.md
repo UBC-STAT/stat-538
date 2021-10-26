@@ -32,6 +32,16 @@ Students will be primarily evaluated through a combination of homework assignmen
 
 - undergraduate statistics (basic estimation and inference, linear regression, probability theory)
 
+### Software Platforms
+
+- In class activities, homework, as well as the final project analysis, development, and reports will be done using [Jupyter Notebooks](http://jupyter.org/).
+
+  -  **Jupyter notebooks** are documents that contain both runnable code and formatted [markdown text](https://commonmark.org/help/). 
+
+- We will be coding using the [R programming language](https://cran.r-project.org/).
+
+**Make sure that you can run JN with R in your computer!!**
+
 ### Lecture Format:
 
 In each lecture session, we will have a ~ 50 minute lecture followed by ~ 30 minute activity. 
@@ -39,8 +49,6 @@ In each lecture session, we will have a ~ 50 minute lecture followed by ~ 30 min
 - Bring your laptop to class! 
 
 - Check and read the **Readings** (in the schedule) suggested prior to each lecture
-
-To be updated: Please make sure you have your software environment set up prior to the course beginning; see the test_notebook.ipynb and Software Setup page for more info.
 
 
 ### Topics
