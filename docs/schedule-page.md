@@ -37,6 +37,7 @@
                 <ul>
                     <li> Topic </li>
                 </ul>
+            </td>    
             <td style="text-align: left;">
                 <ul>
                     <li>Readings.</li>
@@ -65,6 +66,7 @@
                 <ul>
                     <li></li>
                 </ul>
+            </td>
         </tr>
         <tr>
             <td>#4</td>
