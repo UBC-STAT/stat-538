@@ -1,6 +1,6 @@
 ## Syllabus
 
-[Expect some additional changes]
+[Expect some changes]
 
 ### When and where?
 
