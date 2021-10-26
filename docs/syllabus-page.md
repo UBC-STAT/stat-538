@@ -2,6 +2,8 @@
 
 ### STAT538: Generalized Linear Models
 
+[Expect some additional changes]
+
 **Purpose:** 
 
 This is a (mostly) applied graduate course on inference & computation in statistical models with non-normal response variables. Students will learn how to:
