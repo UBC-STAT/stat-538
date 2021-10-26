@@ -50,6 +50,7 @@ Late assignments and course projects will receive a 10% penalty per day. Student
 | 12 | Students presentations |
 
 **Grade Breakdown**
+
 | Deliverable | Point Value |
 | ----------  | ----------- |
 | Participation | 15 |
