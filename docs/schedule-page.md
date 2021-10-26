@@ -16,12 +16,12 @@
             <td> Oct 24 ~ Oct 30 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topic </li>
+                    <li> Review of Linear Models </li>
                 </ul>
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Readings.</li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.1 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -33,8 +33,7 @@
         <tr>
             <td>#2</td>
             <td> Oct 31 ~ Nov 06 </td>
-            <td>
-                <p style="text-align: center; margin-bottom: 0;">
+            <td style="text-align: left;">
                 <ul>
                     <li> Topic </li>
                 </ul>
@@ -52,11 +51,11 @@
         <tr>
             <td>#3</td>
             <td> Nov 07 ~ Nov 13 </td>
-            <td>
-                <p style="text-align: center; margin-bottom: 0;">
+            <td style="text-align: left;">
                 <ul>
                     <li>Topic </li>
                 </ul>
+            </td>    
             <td style="text-align: left;">
                 <ul>
                     <li> Reading</li>
