@@ -1,5 +1,3 @@
-# STAT538: Generalized Linear Models
-
 ## Syllabus
 
 [Expect some additional changes]
