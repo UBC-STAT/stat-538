@@ -21,13 +21,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Tuesday: 
-                        <ul>
-                            <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.6 of BMLR</a></li>
-                            <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chs.2-3 of BMLR</a></li>
-                        </ul>
-                    </li>    
-                    <li>Thursday: <a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.4 of BMLR</a></li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.1 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -41,12 +35,20 @@
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topic </li>
+                    <li>Tuesday: 
+                        <ul>
+                            <li>Logistic Regression: MLE and Inference</li>
+                            <li>Activity on Logistic Regression</li>
+                        </ul>
+                    </li>    
+                    <li>Thursday: Poisson Regression</li>
                 </ul>
             </td>    
             <td style="text-align: left;">
                 <ul>
                     <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.6 of BMLR</a></li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chs.2-3 of BMLR</a></li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.4 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
