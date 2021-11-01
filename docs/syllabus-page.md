@@ -65,7 +65,7 @@ In each lecture session, we will have a ~ 50 minute lecture followed by ~ 30 min
 | 8 | model selection |
 | 9 | TBD |
 | 10 | TBD |
-| 11 | work on projects and student's presentations |
+| 11 | work on projects and students' presentations |
 | 12 | Students' presentations |
 
 ### Grading policy:
