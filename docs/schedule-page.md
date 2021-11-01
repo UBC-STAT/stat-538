@@ -72,7 +72,8 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Activity 3</li>
+                    <li>Homework 1</li>
                 </ul>
             </td>
         </tr>
@@ -91,7 +92,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Activity 4</li>
                 </ul>
             </td>
         </tr>
@@ -110,7 +111,8 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Activity 5</li>
+                    <li>Homework 2</li>
                 </ul>
             </td>
         </tr>
@@ -129,7 +131,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Activity 6</li>
                 </ul>
             </td>
         </tr>
@@ -157,8 +159,10 @@
 
 
 #### Assignment Dates
-- Homework 1: TBD
-- Homework 2: TBD
-- Project Final Submission: TBD.
+- Homework 1: November 13th
+- Homework 2: November 27th
+- Project Final Submission:
+    - Group Oral Presentation: December 2nd/December 7th
+    - Group Written Report: December 12th
   
 
