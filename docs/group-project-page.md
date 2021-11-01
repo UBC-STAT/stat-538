@@ -7,7 +7,7 @@ report). The electronic report will be a Jupyter notebook in which the code cell
 For this project, you will need to formulate a research question of your choice, 
 and then identify and use a dataset to answer to the question. We list some suggested data sets below; however, we encourage you to use another data set that interests you. Let me know if you are unsure whether your dataset is adequate.
 
-### Deliverable 1: Team Contract (10\% of the 45\% total for the project)
+### Deliverable 1: Team Contract (10% of the 45% total for the project)
 
 A group contract is a document to help you formalize the expectations you have for your group members and what they can expect of you. It will help you think about what you need from each other to work effectively as a team! You will create and agree on this contract as a team. **Each member should "sign" (you can just type out your name) at the bottom of the submission**. At a minimum, your group contract must address the following:
 
@@ -27,7 +27,7 @@ What rules can we agree on to help us meet our goals and expectations?
 
 How will we address non-performance regarding these goals, expectations, policies and procedures?
 
-### Deliverable 2: Project Proposal (20\% of the 45\% total for the project)
+### Deliverable 2: Project Proposal (20% of the 45% total for the project)
 
 Each group is expected to prepare a written proposal within 500 words
 (about 1 page) with a research question of interest, and the dataset they plan to use. 
@@ -100,7 +100,7 @@ At least two citations of literature relevant to the project. The citation
 format is your choice – just be consistent. Make sure to cite the source
 of your data as well.
 
-### Deliverable 3: Peer Review (10\% of the 45\% total for the project)
+### Deliverable 3: Peer Review (10% of the 45% total for the project)
 
 For this peer review, you will be **individually** providing feedback to
 another group’s proposal. You will get a proposal to
@@ -130,7 +130,7 @@ the composition of your submission, *reasoning* (70%) evaluates your
 feedback, and *writing* (20%) evaluates your English, spelling, and
 grammar.
 
-### Deliverable 4: Final Report (30\% of the 45\% total for the project)
+### Deliverable 4: Final Report (30% of the 45% total for the project)
 
 Each group will create a final electronic report (max 2000 written
 words, not including citations) using Jupyter to communicate the
@@ -191,7 +191,7 @@ In this section, you’ll interpret the results you obtained in the previous sec
 
 The same instructions for your proposal also applies here. You only need to make changes if necessary (e.g., if feedback indicates so).
 
-### Deliverable 5: Oral Presentation (20\% of the 45\% total for the project)
+### Deliverable 5: Oral Presentation (20% of the 45% total for the project)
 
 Each group will make an oral presentation. Each presentation should be less than 10 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
 
