@@ -193,7 +193,7 @@ The same instructions for your proposal also applies here. You only need to make
 
 ### Deliverable 5: Oral Presentation (20% of the 45% total for the project)
 
-Each group will make an oral presentation. Each presentation should be less than 10 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
+Each group will make an oral presentation. Each presentation should be less than 15 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
 
 ### Deliverable 6: Team Evaluation (10\% of the 45\% total for the project)
 
