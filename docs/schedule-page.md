@@ -21,12 +21,18 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.1 of BMLR</a></li>
+                    <li>Tuesday: 
+                        <ul>
+                            <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.6 of BMLR</a></li>
+                            <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chs.2-3 of BMLR</a></li>
+                        </ul>
+                    </li>    
+                    <li>Thursday: <a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.4 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Activity 1</li>
                 </ul>
             </td>
         </tr>
@@ -40,7 +46,7 @@
             </td>    
             <td style="text-align: left;">
                 <ul>
-                    <li>Readings.</li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.6 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
