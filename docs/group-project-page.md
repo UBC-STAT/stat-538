@@ -4,9 +4,8 @@ Students will work in groups to complete a project from the beginning
 (downloading data from the web) to the end (communicating their methods and conclusions in an electronic
 report). The electronic report will be a Jupyter notebook in which the code cells will download a dataset from the web, reproducibly and sensibly wrangle and clean, summarize and visualize the data, as well as fitting and selecting a model. Throughout the document, markdown cells will be used to communicate the question asked, methods used, and the conclusion reached.
 
-For this project, you will need to formulate formulate a research question of your choice, 
-and then identify and use a dataset to answer to the question. We list some suggested data sets below; however, we encourage you to use another data set that interests you. If you are unsure whether your dataset is adequate, please reach out to a member of the
-teaching team.
+For this project, you will need to formulate a research question of your choice, 
+and then identify and use a dataset to answer to the question. We list some suggested data sets below; however, we encourage you to use another data set that interests you. Let me know if you are unsure whether your dataset is adequate.
 
 ### Deliverable 1: Team Contract
 
@@ -104,12 +103,12 @@ of your data as well.
 ### Deliverable 3: Peer Review
 
 For this peer review, you will be **individually** providing feedback to
-another group’s proposal. You will be sent an email with the proposal to
-review.
+another group’s proposal. You will get a proposal to
+review through a Canvas assignment.
 
 We deliberately set up the review so that each member of your group is
 assigned to review a *different* group’s proposal. This allows your
-group to collectively see a larger variety of proposals.
+group to collectively see a larger variety of proposals. The review will be annonymous.
 
 #### Instructions
 
@@ -210,6 +209,7 @@ A Teammate Evaluation Template link will be available in the Canvas home page to
 - Water survey of Canada: [https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey.html](https://www.canada.ca/en/environment-climate-change/services/water-overview/quantity/monitoring/survey.html)
 - Climate and Weather Data: [https://climate.weather.gc.ca/](https://climate.weather.gc.ca/)
 - Sports data
+- Other: [https://vincentarelbundock.github.io/Rdatasets/](https://vincentarelbundock.github.io/Rdatasets/)
 
 ### Attribution
 
