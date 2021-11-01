@@ -53,7 +53,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Activity 2</li>
                 </ul>
             </td>
         </tr>
