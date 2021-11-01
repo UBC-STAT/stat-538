@@ -54,6 +54,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 2</li>
+                    <li>Team Contract</li>
                 </ul>
             </td>
         </tr>
@@ -93,6 +94,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 4</li>
+                    <li>Project Proposal</li>
                 </ul>
             </td>
         </tr>
@@ -113,6 +115,7 @@
                 <ul>
                     <li>Activity 5</li>
                     <li>Homework 2</li>
+                    <li>Peer Review</li>
                 </ul>
             </td>
         </tr>
@@ -150,7 +153,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li></li>
+                    <li>Team Evaluation</li>
                 </ul>
             </td>
         </tr>
