@@ -7,7 +7,7 @@
             <th style="width: 150px;">Dates</th>
             <th style="width: 400px;">Topics</th>
             <th style="width: 400px;">Required Reading</th>
-            <th style="width: 200px;">Assignments Due</th>
+            <th style="width: 200px;">Assignments (due dates in Canvas</th>
         </tr>
     </thead>
     <tbody>
