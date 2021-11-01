@@ -135,12 +135,13 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 6</li>
+                    <li>Groups 1-2: Oral presentation</li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td>#7</td>
-            <td> Dec 05 ~ Dec 07 </td>
+            <td> Dec 05 ~ Dec 12 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Topics </li>
@@ -154,6 +155,8 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Team Evaluation</li>
+                    <li>Groups 3-5: Oral presentation</li>
+                    <li>Group Final Report</li>
                 </ul>
             </td>
         </tr>
