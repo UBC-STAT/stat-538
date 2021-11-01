@@ -53,7 +53,7 @@ In each lecture session, we will have a ~ 50 minute lecture followed by ~ 30 min
 
 ### Topics
 
-| Lecture | Topic |
+|  | Topic |
 | ------- | ----- |
 | 1 | review of linear models: fitting, tests, diagnostics |
 | 2 | binary data, logistic regression |
