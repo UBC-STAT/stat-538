@@ -34,15 +34,10 @@
             <td>#2</td>
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
-                <ul>
-                    <li>Tuesday: 
                         <ul>
                             <li>Logistic Regression: MLE and Inference</li>
                             <li>Activity on Logistic Regression</li>
                         </ul>
-                    </li>    
-                    <li>Thursday: Poisson Regression</li>
-                </ul>
             </td>    
             <td style="text-align: left;">
                 <ul>
