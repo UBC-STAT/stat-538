@@ -17,6 +17,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Review of Linear Models </li>
+                    <li> Activity on Logistic Regression</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -35,8 +36,8 @@
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
                         <ul>
-                            <li>Logistic Regression: MLE and Inference</li>
-                            <li>Activity on Logistic Regression</li>
+                            <li> Logistic Regression: MLE and Inference</li>
+                            <li> Poisson Regression </li>
                         </ul>
             </td>    
             <td style="text-align: left;">
@@ -58,7 +59,8 @@
             <td> Nov 07 ~ Nov 13 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Topic </li>
+                    <li> Exponential families and GLMs </li>
+                    <li> Fitting GLMs: MLE estimation </li>
                 </ul>
             </td>    
             <td style="text-align: left;">
@@ -78,7 +80,8 @@
             <td> Nov 14 ~ Nov 20 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li> Deviance, tests, intervals </li>
+                    <li> Overdispersion & Negative binomial regression </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -98,7 +101,8 @@
             <td> Nov 21 ~ Nov 27 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li> Zero inflated data project </li>
+                    <li> Correlated data and Mixed Effect Models </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -119,7 +123,8 @@
             <td> Nov 28 ~ Dec 04 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li> Model selection </li>
+                    <li> Group Project Presentations </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -139,7 +144,7 @@
             <td> Dec 05 ~ Dec 12 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li> Group Project Presentations </li>
                 </ul>
             </td>
             <td style="text-align: left;">
