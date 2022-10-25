@@ -37,7 +37,7 @@
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
                         <ul>
-                            <li> Thursday Nov 3 cancelled</li>
+                            <li> <b><font color="red">Thursday Nov 3 cancelled</font></b></li>
                             <li> Take-home activity on Logistic Regression</li>
                             <li> Poisson Regression </li>
                         </ul>
