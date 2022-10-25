@@ -100,6 +100,11 @@ At least two citations of literature relevant to the project. The citation
 format is your choice – just be consistent. Make sure to cite the source
 of your data as well.
 
+
+### Deliverable 3: Oral Presentation (20% of the 45% total for the project)
+
+Each group will make an oral presentation. Each presentation should be less than 15 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
+
 ### Deliverable 3: Final Report (30% of the 45% total for the project)
 
 Each group will create a final electronic report (max 2000 written
@@ -120,7 +125,7 @@ Only one member of your team needs to submit. You must submit **two files**:
 #### Introduction
 
 The instructions for this section are the same in your proposal. Just be
-sure to improve this section by incorporating feedback, and changing
+sure to improve this section by incorporating feedback received from peers and instructor, and changing
 things based on your own improved understanding of the project (now that
 more time has passed since the proposal).
 
@@ -160,9 +165,6 @@ In this section, you’ll interpret the results you obtained in the previous sec
 
 The same instructions for your proposal also applies here. You only need to make changes if necessary (e.g., if feedback indicates so).
 
-### Deliverable 4: Oral Presentation (20% of the 45% total for the project)
-
-Each group will make an oral presentation. Each presentation should be less than 15 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
 
 ### Deliverable 5: Team Evaluation (10% of the 45% total for the project)
 
