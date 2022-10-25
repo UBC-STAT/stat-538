@@ -23,7 +23,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.1-3 and 6 of BMLR</a></li>
-                    <li><a href="[https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html](https://www.statlearning.com)">Ch.3 and 4 of ISLR</a></li>
+                    <li><a href="https://www.statlearning.com">Ch.3 and 4 of ISLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
