@@ -62,15 +62,14 @@ In each lecture session, we will have a ~ 50 minute lecture followed by ~ 30 min
 | 5 | fitting GLMs |
 | 6 | deviance, tests, intervals |
 | 7 | overdispersion & negative binomial regression | 
-| 8 | model selection |
-| 9 | TBD |
-| 10 | TBD |
-| 11 | work on projects and students' presentations |
-| 12 | Students' presentations |
+| 8 | zero inflated data |
+| 9 | correlated data and mixed effect models|
+| 10 | model selection |
+
 
 ### Grading policy:
 
-Late assignments and course projects will receive a 10% penalty per day. Students may request a regrade up to 1 week after receiving their graded work.
+Late assignments and course projects will receive a 10% penalty per day. Students may request a regrade up to 1 week after receiving their graded work. The participation grade includes in-class participation and in-class activities.
 
 #### Grade Breakdown
 
