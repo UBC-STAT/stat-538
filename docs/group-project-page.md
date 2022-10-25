@@ -105,7 +105,7 @@ of your data as well.
 
 Each group will make an oral presentation. Each presentation should be less than 15 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
 
-### Deliverable 3: Final Report (30% of the 45% total for the project)
+### Deliverable 4: Final Report (30% of the 45% total for the project)
 
 Each group will create a final electronic report (max 2000 written
 words, not including citations) using Jupyter to communicate the
