@@ -100,37 +100,7 @@ At least two citations of literature relevant to the project. The citation
 format is your choice – just be consistent. Make sure to cite the source
 of your data as well.
 
-### Deliverable 3: Peer Review (10% of the 45% total for the project)
-
-For this peer review, you will be **individually** providing feedback to
-another group’s proposal. You will get a proposal to
-review through a Canvas assignment.
-
-We deliberately set up the review so that each member of your group is
-assigned to review a *different* group’s proposal. This allows your
-group to collectively see a larger variety of proposals. The review will be annonymous.
-
-#### Instructions
-
-Bundle all of your feedback into a single document of your choice, and
-submit that to canvas. There is no page limit. The teaching team will
-deliver the feedback to your reviewee.
-
-Your review should contain the following elements:
-
-- As you read through the proposal, point out anything that you think is confusing, or is not
-communicated effectively. When possible, provide suggestions for improvement. If everything looks
-good to you, say why it looks good.
-- What part of the proposal is the most effective, and why?
-- What part of the proposal is the least effective, and why? Provide a suggestion for improvement.
-- Provide feedback on English, spelling, and grammar (if applicable).
-
-The rubric will be posted on canvas. In short, *mechanics* (10%) evaluates
-the composition of your submission, *reasoning* (70%) evaluates your
-feedback, and *writing* (20%) evaluates your English, spelling, and
-grammar.
-
-### Deliverable 4: Final Report (30% of the 45% total for the project)
+### Deliverable 3: Final Report (30% of the 45% total for the project)
 
 Each group will create a final electronic report (max 2000 written
 words, not including citations) using Jupyter to communicate the
@@ -159,8 +129,7 @@ more time has passed since the proposal).
 Here is where you’ll include your work from the “Preliminary Results” in
 your proposal, along with the additional results you planned to conduct,
 as indicated in the “Methods: Plan” section of your proposal. Be sure to
-incorporate feedback from the teaching team and your peers (as
-relevant), or make any improvements based on your own improved
+incorporate feedback received, or make any improvements based on your own improved
 understanding of the project (now that more time has passed since the
 proposal).
 
@@ -191,11 +160,11 @@ In this section, you’ll interpret the results you obtained in the previous sec
 
 The same instructions for your proposal also applies here. You only need to make changes if necessary (e.g., if feedback indicates so).
 
-### Deliverable 5: Oral Presentation (20% of the 45% total for the project)
+### Deliverable 4: Oral Presentation (20% of the 45% total for the project)
 
 Each group will make an oral presentation. Each presentation should be less than 15 minutes long, and consist of slides that summarize the material that you plan to include in the report. This will be presented in the last two lectures of class. At the end of each presentation there will be a 5 min slot for Q&A. Although this is a group presentation, each student will be evaluated individually based on presentation skills, ability to respond to questions, and participation in other presentations.
 
-### Deliverable 6: Team Evaluation (10\% of the 45\% total for the project)
+### Deliverable 5: Team Evaluation (10% of the 45% total for the project)
 
 Evaluate each member of your group (including yourself) in terms of how they/you participated,
 prepared, helped the group excel, and was a team player.
