@@ -44,9 +44,8 @@
             </td>    
             <td style="text-align: left;">
                 <ul>
-                    
-                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chs.2-3 of BMLR</a></li>
-                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.4 of BMLR</a></li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-beyondmost.html">Chs.2-3 of BMLR</a></li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html">Ch.4 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
