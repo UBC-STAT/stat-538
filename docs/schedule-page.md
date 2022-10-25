@@ -60,7 +60,7 @@
             <td> Nov 07 ~ Nov 13 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Exponential families and GLMs </li>
+                    <li> <b>Zoom</b>: Exponential families and GLMs </li>
                     <li> Fitting GLMs: MLE estimation </li>
                 </ul>
             </td>    
