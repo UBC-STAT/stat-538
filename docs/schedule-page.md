@@ -6,7 +6,7 @@
             <th style="width: 100px;">Week</th>
             <th style="width: 150px;">Dates</th>
             <th style="width: 400px;">Topics</th>
-            <th style="width: 400px;">Required Reading</th>
+            <th style="width: 400px;">Suggested Reading</th>
             <th style="width: 200px;">Assignments (due dates in Canvas</th>
         </tr>
     </thead>
@@ -17,12 +17,13 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Review of Linear Models </li>
-                    <li> Activity on Logistic Regression</li>
+                    <li> Logistic Regression: MLE and Inference</li>
                 </ul>
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.1 of BMLR</a></li>
+                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.1-3 and 6 of BMLR</a></li>
+                    <li><a href="[https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html](https://www.statlearning.com)">Ch.3 and 4 of ISLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -36,13 +37,14 @@
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
                         <ul>
-                            <li> Logistic Regression: MLE and Inference</li>
+                            <li> Thursday Nov 3 cancelled</li>
+                            <li> Take-home activity on Logistic Regression</li>
                             <li> Poisson Regression </li>
                         </ul>
             </td>    
             <td style="text-align: left;">
                 <ul>
-                    <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.6 of BMLR</a></li>
+                    
                     <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chs.2-3 of BMLR</a></li>
                     <li><a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Ch.4 of BMLR</a></li>
                 </ul>
