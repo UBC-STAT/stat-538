@@ -123,7 +123,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Model selection </li>
-                    <li> Group Project Presentations </li>
+                    <li> Group Oral Presentations </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -133,8 +133,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Activity 6</li>
-                    <li>Groups 1-2: Oral presentation</li>
+                    <li>Group Presentations</li>
                 </ul>
             </td>
         </tr>
@@ -143,7 +142,7 @@
             <td> Dec 05 ~ Dec 12 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Group Project Presentations </li>
+                    <li> Group Oral Presentations </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -154,7 +153,6 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Team Evaluation</li>
-                    <li>Groups 3-5: Oral presentation</li>
                     <li>Group Final Report</li>
                 </ul>
             </td>
@@ -164,10 +162,10 @@
 
 
 #### Assignment Dates
-- Homework 1: November 13th
+- Homework 1: November 20th
 - Homework 2: November 27th
 - Project Final Submission:
-    - Group Oral Presentation: December 2nd/December 7th
-    - Group Written Report: December 12th
+    - Group Oral Presentation: December 1st/December 6th
+    - Group Written Report: December 11th
   
 
