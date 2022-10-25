@@ -38,7 +38,7 @@
             <td style="text-align: left;">
                         <ul>
                             <li> Poisson Regression </li>
-                            <li> <b><p style="color:DodgerBlue;">Thursday Nov 3 cancelled</p></b></li>
+                            <li> <b><p style="color:Tomato;">Thursday Nov 3 cancelled</p></b></li>
                             <li> Take-home activity on Logistic Regression</li>
                         </ul>
             </td>    
@@ -60,7 +60,7 @@
             <td> Nov 07 ~ Nov 13 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> <b>Zoom</b>: Exponential families and GLMs </li>
+                    <li> <b><p style="color:Tomato;">Zoom</p></b>: Exponential families and GLMs </li>
                     <li> Fitting GLMs: MLE estimation </li>
                 </ul>
             </td>    
