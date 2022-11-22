@@ -108,8 +108,8 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>[Simulating Data for Count Models](https://data.library.virginia.edu/simulating-data-for-count-models/)</li>
-                    <li>[Models for excess zeros]([https://data.library.virginia.edu/simulating-data-for-count-models/](https://rpubs.com/kaz_yos/pscl-2))</li>
+                    <li><a href="https://data.library.virginia.edu/simulating-data-for-count-models/">Simulating Data for Count Models</a></li>
+                    <li><a href="https://rpubs.com/kaz_yos/pscl-2">Models for excess zeros</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
