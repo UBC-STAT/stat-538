@@ -108,12 +108,14 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Readings.</li>
+                    <li>[Simulating Data for Count Models](https://data.library.virginia.edu/simulating-data-for-count-models/)</li>
+                    <li>[Models for excess zeros]([https://data.library.virginia.edu/simulating-data-for-count-models/](https://rpubs.com/kaz_yos/pscl-2))</li>
                 </ul>
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Homework 2</li>
+                    <li>Class activity: LME (due end of Nov 26th)</li>
+                    <li>Homework 1 (due end of Nov 29th)</li>
                 </ul>
             </td>
         </tr>
