@@ -144,7 +144,7 @@
             <td> Dec 05 ~ Dec 12 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Group Oral Presentations </li>
+                    
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -154,6 +154,8 @@
             </td>
             <td style="text-align: left;">
                 <ul>
+                    <li> Group Oral Presentations </li>
+                    Due Dec 10-17
                     <li>Team Evaluation</li>
                     <li>Group Final Report</li>
                 </ul>
