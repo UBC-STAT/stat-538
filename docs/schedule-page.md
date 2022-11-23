@@ -124,7 +124,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Model selection </li>
-                    <li> Group Oral Presentations </li>
+                    <li>TBD</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -143,7 +143,7 @@
             <td> Dec 05 ~ Dec 12 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>TBD</li>
+                    <li> Group Oral Presentations </li>
                 </ul>
             </td>
             <td style="text-align: left;">
