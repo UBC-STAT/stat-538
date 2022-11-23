@@ -168,6 +168,6 @@
 - Homework 2: December 6th
 - Project Final Submission:
     - Group Oral Presentation: December 6th
-    - Group Written Report: December 12th - 17th
+    - Group Written Report: December 10th - 17th
   
 
