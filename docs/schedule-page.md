@@ -154,9 +154,8 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Group Oral Presentations </li>
-                    Due Dec 10-17
-                    <li>Team Evaluation</li>
-                    <li>Group Final Report</li>
+                   <li>Team Evaluation (due Dec 10-17) </li>
+                    <li>Group Final Report (due Dec 10-17)</li>
                 </ul>
             </td>
         </tr>
