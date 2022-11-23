@@ -93,7 +93,6 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 4</li>
-                    <li>Homework 1</li>
                 </ul>
             </td>
         </tr>
@@ -136,6 +135,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Group Presentations</li>
+                    <li>Homework 2</li>
                 </ul>
             </td>
         </tr>
