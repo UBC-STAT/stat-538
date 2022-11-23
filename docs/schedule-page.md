@@ -134,7 +134,6 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Group Presentations</li>
                     <li>Homework 2</li>
                 </ul>
             </td>
@@ -144,7 +143,7 @@
             <td> Dec 05 ~ Dec 12 </td>
             <td style="text-align: left;">
                 <ul>
-                    
+                    <li>TBD</li>
                 </ul>
             </td>
             <td style="text-align: left;">
