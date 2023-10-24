@@ -38,8 +38,7 @@
             <td style="text-align: left;">
                         <ul>
                             <li> Poisson Regression </li>
-                            <li> <b><p style="color:Tomato;">Thursday Nov 3 cancelled</p></b></li>
-                            <li> Take-home activity on Logistic Regression</li>
+                            <li> Activity on Logistic and Poisson Regression</li>
                         </ul>
             </td>    
             <td style="text-align: left;">
@@ -60,7 +59,7 @@
             <td> Nov 07 ~ Nov 13 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> <b><p style="color:Tomato;">Zoom</p></b>: Exponential families and GLMs </li>
+                    <li> Exponential families and GLMs </li>
                     <li> Fitting GLMs: MLE estimation </li>
                 </ul>
             </td>    
@@ -113,8 +112,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Class activity: LME (due end of Nov 26th)</li>
-                    <li>Homework 1 (due end of Nov 29th)</li>
+                    <li>Activity 5</li>
                 </ul>
             </td>
         </tr>
@@ -134,7 +132,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Homework 2</li>
+                    <li>TBD</li>
                 </ul>
             </td>
         </tr>
@@ -154,8 +152,8 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Group Oral Presentations </li>
-                   <li>Team Evaluation (due Dec 10-17) </li>
-                    <li>Group Final Report (due Dec 10-17)</li>
+                   <li>Team Evaluation </li>
+                    <li>Group Final Report </li>
                 </ul>
             </td>
         </tr>
@@ -164,10 +162,10 @@
 
 
 #### Assignment Dates
-- Homework 1: November 29th
-- Homework 2: December 6th
+- Homework 1: TBD
+- Homework 2: TBD
 - Project Final Submission:
-    - Group Oral Presentation: December 6th
-    - Group Written Report: December 10th - 17th
+    - Group Oral Presentation: last week of classes
+    - Group Written Report: December 16th
   
 
