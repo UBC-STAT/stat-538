@@ -37,7 +37,7 @@
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
                         <ul>
-                            <li> Poisson Regression </li>
+                            <li> Logistic and Poisson Regression </li>
                             <li> Activity on Logistic and Poisson Regression</li>
                         </ul>
             </td>    
