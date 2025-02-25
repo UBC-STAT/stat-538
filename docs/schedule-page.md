@@ -13,7 +13,7 @@
     <tbody>
        <tr>
             <td>#1</td>
-            <td> Oct 24 ~ Oct 30 </td>
+            <td> Feg 24 ~ March 02 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Review of Linear Models </li>
@@ -34,7 +34,7 @@
         </tr>
         <tr>
             <td>#2</td>
-            <td> Oct 31 ~ Nov 06 </td>
+            <td> March 03 ~ March 09 </td>
             <td style="text-align: left;">
                         <ul>
                             <li> Logistic and Poisson Regression </li>
@@ -56,7 +56,7 @@
         </tr>
         <tr>
             <td>#3</td>
-            <td> Nov 07 ~ Nov 13 </td>
+            <td> March 10 ~ March 16 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Exponential families and GLMs </li>
@@ -77,7 +77,7 @@
         </tr>
         <tr>
             <td>#4</td>
-            <td> Nov 14 ~ Nov 20 </td>
+            <td> March 17 ~ March 23 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Deviance, tests, intervals </li>
@@ -97,7 +97,7 @@
         </tr>
         <tr>
             <td>#5</td>
-            <td> Nov 21 ~ Nov 27 </td>
+            <td> March 24 ~ March 30 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Zero inflated data project </li>
@@ -118,7 +118,7 @@
         </tr>
         <tr>
             <td>#6</td>
-            <td> Nov 28 ~ Dec 04 </td>
+            <td> March 31 ~ April 06 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Model selection </li>
@@ -138,7 +138,7 @@
         </tr>
         <tr>
             <td>#7</td>
-            <td> Dec 05 ~ Dec 12 </td>
+            <td> April 07 ~ April 13 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Group Oral Presentations </li>
@@ -166,6 +166,6 @@
 - Homework 2: TBD
 - Project Final Submission:
     - Group Oral Presentation: last week of classes
-    - Group Written Report: December 16th
+    - Group Written Report: April 15th
   
 
