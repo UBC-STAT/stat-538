@@ -4,9 +4,7 @@
 
 ### When and where?
 
-- The lectures will be on Tuesdays and Thursdays from 3 pm to 4:30 pm.
-
-- The lectures will be held in ESB building, Room 4192.
+- See CANVAS page
 
 - This course does not have a lab session run by TAs. 
 
@@ -101,4 +99,4 @@ UBC provides resources to support student learning and to maintain healthy lifes
 
 ### Attribution
 
-This syllabus was slighly modified from a previous version developed by Prof Trevor Campbell.
+This syllabus and lecture notes contain contributions from Professors Trevor Campbell, Lang Wu and Rodolfo Lourenzutti.
