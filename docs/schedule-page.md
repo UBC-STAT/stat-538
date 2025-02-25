@@ -13,7 +13,7 @@
     <tbody>
        <tr>
             <td>#1</td>
-            <td> Feg 24 ~ March 02 </td>
+            <td> Feb 24 ~ March 02 </td>
             <td style="text-align: left;">
                 <ul>
                     <li> Review of Linear Models </li>
