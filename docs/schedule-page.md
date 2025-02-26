@@ -17,7 +17,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Review of Linear Models </li>
-                    <li> Logistic Regression: MLE and Inference</li>
+                    <li> Diagnostics and in-class activity</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -37,8 +37,8 @@
             <td> March 03 ~ March 09 </td>
             <td style="text-align: left;">
                         <ul>
-                            <li> Logistic and Poisson Regression </li>
-                            <li> Activity on Logistic and Poisson Regression</li>
+                            <li> Logistic Regression: MLE and Inference </li>
+                            <li> Activity on Logistic Regression</li>
                         </ul>
             </td>    
             <td style="text-align: left;">
@@ -59,8 +59,8 @@
             <td> March 10 ~ March 16 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Exponential families and GLMs </li>
-                    <li> Fitting GLMs: MLE estimation </li>
+                    <li> Poisson Regression: MLE and Inference </li>
+                    <li> Activity on Poisson Regression</li>
                 </ul>
             </td>    
             <td style="text-align: left;">
@@ -80,8 +80,8 @@
             <td> March 17 ~ March 23 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Deviance, tests, intervals </li>
-                    <li> Overdispersion & Negative binomial regression </li>
+                    <li> Exponential families and GLMs </li>
+                    <li> Fitting GLMs: MLE estimation </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -100,8 +100,9 @@
             <td> March 24 ~ March 30 </td>
             <td style="text-align: left;">
                 <ul>
+                    <li> Deviance, tests, intervals </li>
+                    <li> Overdispersion & Negative binomial regression </li>
                     <li> Zero inflated data project </li>
-                    <li> Correlated data and Mixed Effect Models </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -121,8 +122,7 @@
             <td> March 31 ~ April 06 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Model selection </li>
-                    <li>TBD</li>
+                    <li> Model selection and Prediction</li>
                 </ul>
             </td>
             <td style="text-align: left;">
