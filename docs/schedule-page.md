@@ -91,6 +91,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 4</li>
+                    <li>Activity 5</li>
                 </ul>
             </td>
         </tr>
@@ -111,7 +112,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Activity 5</li>
+                    <li>Activity 6</li>
                     <li>HW 1: ZIP*</li>
                 </ul>
             </td>
