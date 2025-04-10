@@ -85,7 +85,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Readings.</li>
+                    <li>Readings</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -127,7 +127,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Readings.</li>
+                    <li>Readings</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -146,7 +146,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Readings.</li>
+                    <li>Readings</li>
                 </ul>
             </td>
             <td style="text-align: left;">
