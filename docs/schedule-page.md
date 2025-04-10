@@ -100,6 +100,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Zero inflated data project </li>
+                    <li> Generalized Linear Mixed Effect Models</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -111,6 +112,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 5</li>
+                    <li>HW 1: ZIP$^*$</li>
                 </ul>
             </td>
         </tr>
@@ -119,7 +121,7 @@
             <td> March 31 ~ April 06 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Generalized Linear Mixed Effect Models</li>
+                    <li>Model selection and Prediction</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -129,7 +131,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Model selection and Prediction</li>
+                    <li>HW 2: Variables Selection$^*$</li>
                 </ul>
             </td>
         </tr>
@@ -149,7 +151,8 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Group Oral Presentations </li>
-                   <li>Group Final Report </li>
+                    <li> HW3: Final Assessment$^*$ </li>
+                   <li> Group Final Report$^*$ </li>
                 </ul>
             </td>
         </tr>
@@ -157,7 +160,7 @@
 </table>
 
 
-#### Assignment Dates
+#### $^*$Assignment Dates
 - Homework 1: April 1, 2025
 - Homework 2: April 8, 2025
 - Homework 3 (Final Assessment): April 19, 2025
