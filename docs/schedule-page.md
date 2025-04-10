@@ -112,7 +112,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 5</li>
-                    <li>HW 1: ZIP$^*$</li>
+                    <li>HW 1: ZIP*</li>
                 </ul>
             </td>
         </tr>
@@ -131,7 +131,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>HW 2: Variables Selection$^*$</li>
+                    <li>HW 2: Variables Selection*</li>
                 </ul>
             </td>
         </tr>
@@ -151,8 +151,8 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Group Oral Presentations </li>
-                    <li> HW3: Final Assessment$^*$ </li>
-                   <li> Group Final Report$^*$ </li>
+                    <li> HW3: Final Assessment* </li>
+                   <li> Group Final Report* </li>
                 </ul>
             </td>
         </tr>
@@ -160,7 +160,7 @@
 </table>
 
 
-#### $^*$Assignment Dates
+#### *Assignment Dates
 - Homework 1: April 1, 2025
 - Homework 2: April 8, 2025
 - Homework 3 (Final Assessment): April 19, 2025
