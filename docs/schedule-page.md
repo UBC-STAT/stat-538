@@ -38,6 +38,7 @@
             <td style="text-align: left;">
                         <ul>
                             <li> Logistic Regression: MLE and Inference </li>
+                            <li> Poisson Regression: MLE and Inference </li>
                             <li> Activity on Logistic Regression</li>
                         </ul>
             </td>    
@@ -50,7 +51,6 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 2</li>
-                    <li>Team Contract</li>
                 </ul>
             </td>
         </tr>
@@ -59,8 +59,8 @@
             <td> March 10 ~ March 16 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Poisson Regression: MLE and Inference </li>
-                    <li> Activity on Poisson Regression</li>
+                    <li> Exponential families and GLMs </li>
+                    <li> Fitting GLMs: MLE estimation </li>
                 </ul>
             </td>    
             <td style="text-align: left;">
@@ -71,7 +71,6 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Activity 3</li>
-                    <li>Project Proposal</li>
                 </ul>
             </td>
         </tr>
@@ -80,8 +79,8 @@
             <td> March 17 ~ March 23 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Exponential families and GLMs </li>
-                    <li> Fitting GLMs: MLE estimation </li>
+                    <li> Deviance, tests, intervals </li>
+                    <li> Overdispersion & Negative binomial regression </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -100,8 +99,6 @@
             <td> March 24 ~ March 30 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Deviance, tests, intervals </li>
-                    <li> Overdispersion & Negative binomial regression </li>
                     <li> Zero inflated data project </li>
                 </ul>
             </td>
@@ -122,7 +119,7 @@
             <td> March 31 ~ April 06 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Model selection and Prediction</li>
+                    <li> Generalized Linear Mixed Effect Models</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -132,7 +129,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>TBD</li>
+                    <li>Model selection and Prediction</li>
                 </ul>
             </td>
         </tr>
@@ -152,8 +149,7 @@
             <td style="text-align: left;">
                 <ul>
                     <li> Group Oral Presentations </li>
-                   <li>Team Evaluation </li>
-                    <li>Group Final Report </li>
+                   <li>Group Final Report </li>
                 </ul>
             </td>
         </tr>
@@ -162,10 +158,11 @@
 
 
 #### Assignment Dates
-- Homework 1: TBD
-- Homework 2: TBD
+- Homework 1: April 1, 2025
+- Homework 2: April 8, 2025
+- Homework 3 (Final Assessment): April 19, 2025
 - Project Final Submission:
-    - Group Oral Presentation: last week of classes
-    - Group Written Report: April 15th
+    - Group Oral Presentation: April 8, 2025
+    - Group Written Report: April 17th, 2025
   
 
