@@ -75,8 +75,9 @@ Late assignments and course projects will receive a 10% penalty per day. Student
 | ----------  | ----------- |
 | Participation | 15 |
 | Homework 1 | 20 | 
-| Homework 2 | 20 |
-| Project | 45 |
+| Homework 2 | 15 |
+| Homework 3 | 20 |
+| Project | 30 |
 
 
 ### Recommended Textbooks:
